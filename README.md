@@ -47,8 +47,8 @@
 
 🧠 **Dev Insight**
 
-> ✨ ***"Programming isn’t about what you know; it’s about what you can figure out.***  
-> ***The ability to troubleshoot, research, and adapt is far more valuable than memorizing syntax."***  
+> ✨ ***"Programming isn’t about what you know; it’s about what you can figure out."***  
+> ***The ability to troubleshoot, research, and adapt is far more valuable than memorizing syntax.***  
 ><p align="right"><sub>— Chris Pine (Author of Learn to Program)</sub></p>
 
 
