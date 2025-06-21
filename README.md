@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
-**🧠 IDEs & Databases:**  
+**🖥️ IDEs & Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=flat&logo=eclipseide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
@@ -45,9 +45,10 @@
 
 ---
 
-### 💬 Dev Insight
+🧠 **Dev Insight**
 
-> "Programming isn’t about what you know; it’s about what you can figure out. The ability to troubleshoot, research, and adapt is far more valuable than memorizing syntax."  
-> — Chris Pine (Author of Learn to Program)
+> ✨ ***"Programming isn’t about what you know; it’s about what you can figure out.***  
+> ***The ability to troubleshoot, research, and adapt is far more valuable than memorizing syntax."***  
+><p align="right"><sub>— Chris Pine (Author of Learn to Program)</sub></p>
 
 
